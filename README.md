@@ -14,5 +14,11 @@
 - Predicted Formula 1 race podium winners using Python and Machine Learning, applying feature engineering and model evaluation to optimize predictive accuracy.
   
 ## Tech Stack 🛠️
+🔹 Data Visualization & Reporting
+- Power BI
+- Tableau
+  
 🔹 Cloud
-- AWS: S3, MWAA  
+- AWS: S3
+- Azure: EC2, EMR
+ 
