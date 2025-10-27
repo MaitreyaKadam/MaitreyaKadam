@@ -1,5 +1,17 @@
 ## Hi, I'm Maitreya Kadam 👋
 - 🎓 Master of Data Science, RMIT University (2025)
-- 🧠 Passionate about NLP, educational tech, and sports analytics
-- 🛠️ Building scalable RAG systems and data pipelines
+- 💡 Passionate about data analytics, real-time processing, and turning insights into impact.
+- 🌏 Based in Melbourne, Australia
 
+## What I Do 🚀
+- Data Analytics & Insights: Extracting insights from messy data, validating integrity, and delivering actionable insights that drive smarter designs.
+- Dashboard Design: Building intuitive, impact-driven dashboards using Python, Streamlit, and PowerBI to make data accessible and engaging.
+- Data Storytelling: Translating Complex findings into clear narrative for technical and non-technical audiences alike.
+- Real-Time Analytics: Leveraging Spark Streaming and Scala to process and analyze data in real-time.
+
+## Key Achievements 🏆
+- Built real-time Spark Streaming system for word & co-occurrence analysis.
+- Predicted Formula 1 race podium winners using Python and Machine Learning, applying feature engineering and model evaluation to optimize predictive accuracy.
+  
+## Tech Stack 🛠️
+🔹 Cloud
