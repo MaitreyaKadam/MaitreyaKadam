@@ -15,3 +15,4 @@
   
 ## Tech Stack 🛠️
 🔹 Cloud
+  ◦ AWS: S3, MWAA  
