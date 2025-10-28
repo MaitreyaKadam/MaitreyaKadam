@@ -34,11 +34,11 @@
 - Technical Troubleshooting & Support, Cross-functional team collaboration, Time Management
 - Continuous Learning, Documentation.
 
-  ## Featured Projects 📂
-  -
-  -
-  -
-  
-  ## Connect with me On 💬
-  - [Linkedin](https://www.linkedin.com/in/maitreya-kadam-a482b8190/)
+## Featured Projects 📂
+-
+-
+-
+## Connect with me On 💬
+- [Linkedin](https://www.linkedin.com/in/maitreya-kadam-a482b8190/)
+- [Email](maitreyakadamau@gmail.com)
  
