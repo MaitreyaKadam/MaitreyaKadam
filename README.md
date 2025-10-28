@@ -14,11 +14,31 @@
 - Predicted Formula 1 race podium winners using Python and Machine Learning, applying feature engineering and model evaluation to optimize predictive accuracy.
   
 ## Tech Stack 🛠️
+🔹 Data Analytics & Engineering
+- Languages & Query: Python, SQL, Scala, R, Unix Shell Scripting
+- Tools: Spark Streaming, Weka, Hive, HDFS, Linux
+- Techniques: Feature Engineering, Real-Time Data Processing, Data Cleaning & Modelling, Dimensional Modelling.
+
 🔹 Data Visualization & Reporting
 - Power BI
 - Tableau
+- Streamlit
   
 🔹 Cloud
 - AWS: S3
 - Azure: EC2, EMR
+
+🔹 Other Skills
+- MS Office (Excel, Outlook, Teams, Word, PowerPoint)
+- Client Interaction, Peer Mentoring, Stakeholder Communication
+- Technical Troubleshooting & Support, Cross-functional team collaboration, Time Management
+- Continuous Learning, Documentation.
+
+  ## Featured Projects 📂
+  -
+  -
+  -
+  
+  ## Connect with me On 💬
+  - [Linkedin](https://www.linkedin.com/in/maitreya-kadam-a482b8190/)
  
