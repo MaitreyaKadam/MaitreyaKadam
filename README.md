@@ -11,9 +11,10 @@
 - Real-Time Analytics: Leveraging Spark Streaming and Scala to process and analyze data in real-time.
 
 ## Featured Projects 📂
+- [Forecasting Solar Radiation and Spurious Correlation Testing of Melbourne PPI](https://github.com/MaitreyaKadam/Radiation_Forecasting/tree/main)
+- [ASX Forecasting](https://github.com/MaitreyaKadam/ASX-Forecasting/tree/main)
 - [F1 Podium Predictions](https://github.com/MaitreyaKadam/F1_PodiumPreds)
 - [Trip Statistic Engine](https://github.com/MaitreyaKadam/Trip-Statistics)
--
 
 ## Key Achievements 🏆
 - Built real-time Spark Streaming system for word & co-occurrence analysis.
