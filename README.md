@@ -4,6 +4,7 @@
 - 🌏 Based in Melbourne, Australia
 
 ## What I Do 🚀
+- Forecasting & Predictive Modelling: Developing and Validating ML models using Python to forecast key business metrics, predict outcomes in the world of sports and drive informed decision-making.
 - Data Analytics & Insights: Extracting insights from messy data, validating integrity, and delivering actionable insights that drive smarter designs.
 - Dashboard Design: Building intuitive, impact-driven dashboards using Python, Streamlit, and PowerBI to make data accessible and engaging.
 - Data Storytelling: Translating Complex findings into clear narrative for technical and non-technical audiences alike.
@@ -16,7 +17,8 @@
 ## Tech Stack 🛠️
 🔹 Data Analytics & Engineering
 - Languages & Query: Python, SQL, Scala, R, Unix Shell Scripting
-- Tools: Spark Streaming, Weka, Hive, HDFS, Linux
+- ML Libraries and Tools: Scikit-learn, Pandas, Numpy.
+- Big Data Tools: Spark Streaming, Weka, Hive, HDFS, Linux
 - Techniques: Feature Engineering, Real-Time Data Processing, Data Cleaning & Modelling, Dimensional Modelling.
 
 🔹 Data Visualization & Reporting
@@ -35,7 +37,7 @@
 - Continuous Learning, Documentation.
 
 ## Featured Projects 📂
--
+- [F1 Podium Predictions](https://github.com/MaitreyaKadam/F1_PodiumPreds)
 -
 -
 ## Connect with me On 💬
