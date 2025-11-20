@@ -10,6 +10,11 @@
 - Data Storytelling: Translating Complex findings into clear narrative for technical and non-technical audiences alike.
 - Real-Time Analytics: Leveraging Spark Streaming and Scala to process and analyze data in real-time.
 
+## Featured Projects 📂
+- [F1 Podium Predictions](https://github.com/MaitreyaKadam/F1_PodiumPreds)
+- [Trip Statistic Engine](https://github.com/MaitreyaKadam/Trip-Statistics)
+-
+
 ## Key Achievements 🏆
 - Built real-time Spark Streaming system for word & co-occurrence analysis.
 - Predicted Formula 1 race podium winners using Python and Machine Learning, applying feature engineering and model evaluation to optimize predictive accuracy.
@@ -36,10 +41,6 @@
 - Technical Troubleshooting & Support, Cross-functional team collaboration, Time Management
 - Continuous Learning, Documentation.
 
-## Featured Projects 📂
-- [F1 Podium Predictions](https://github.com/MaitreyaKadam/F1_PodiumPreds)
--
--
 ## Connect with me On 💬
 - [Linkedin](https://www.linkedin.com/in/maitreya-kadam-a482b8190/)
 - [Email](maitreyakadamau@gmail.com)
