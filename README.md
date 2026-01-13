@@ -33,8 +33,7 @@
 - Streamlit
   
 🔹 Cloud
-- AWS: S3
-- Azure: EC2, EMR
+- AWS: S3, EC2, EMR
 
 🔹 Other Skills
 - MS Office (Excel, Outlook, Teams, Word, PowerPoint)
