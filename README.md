@@ -1,5 +1,5 @@
 ## Hi, I'm Maitreya Kadam 👋
-- 🎓 Master of Data Science, RMIT University (2025)
+- 🎓 Master of Data Science, RMIT University (2026)
 - 💡 Passionate about data analytics, real-time processing, and turning insights into impact.
 - 🌏 Based in Melbourne, Australia
 
