@@ -15,7 +15,7 @@
 - [ASX Forecasting](https://github.com/MaitreyaKadam/ASX-Forecasting/tree/main)
 - [F1 Podium Predictions](https://github.com/MaitreyaKadam/F1_PodiumPreds)
 - [Trip Statistic Engine Using AWS EMR](https://github.com/MaitreyaKadam/Trip-Statistics)
-- [Coffee Sales Analysis](https://github.com/MaitreyaKadam/Coffee-Sales-Analysis/tree/main)
+
 ## Key Achievements 🏆
 - Built real-time Spark Streaming system for word & co-occurrence analysis.
 - Predicted Formula 1 race podium winners using Python and Machine Learning, applying feature engineering and model evaluation to optimize predictive accuracy.
